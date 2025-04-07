@@ -55,7 +55,7 @@
 
 # ⚡️Where to find me:
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/AudricKruizer" style="display: inline-block;">
+  <a target="_blank" href="https://www.linkedin.com/in/audrickruizer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A77B6.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a target="_blank" href="https://www.instagram.com/audrickruizer" style="display: inline-block;">
