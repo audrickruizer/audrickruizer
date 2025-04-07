@@ -1,4 +1,4 @@
-<img src="Dragon Ball Super GIF by Toei Animation.gif" alt="Goku Ascending" width="100%"/>
+<img src="assets/Dragon Ball Super GIF by Toei Animation.gif" alt="Goku Ascending" width="100%"/>
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 </p>
 
 <div align="center">
-  <img src="Dragon Ball Pixel GIF by BasedMinis.gif" height="150" alt="Dragon Ball Pixel GIF" />
+  <img src="assets/Dragon Ball Pixel GIF by BasedMinis.gif" height="150" alt="Dragon Ball Pixel GIF" />
   <img src="https://github-readme-stats.vercel.app/api?username=audrickruizer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=audrickruizer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
