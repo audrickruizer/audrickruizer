@@ -7,7 +7,7 @@
 🎯 Currently building my own [webpage](https://audrickruizer.github.io/audrickruizer-portfolio/)  
 🚀 Check out my latest project: [Job Tracker Web App](https://job-tracker-two-eosin.vercel.app/)  
 🎓 Fresh graduate from UNSW — Bachelor of Science in Computer Science  
-🌱 Open to internship opportunities in software engineering and data engineering 
+🌱 Open to internship opportunities in software engineering and data engineering  
 ♟️ Chess nerd — peaked at **2031** rating on Chess.com  
 🎬 Movie buff & pop music enthusiast 🎧  
 🕺 Occasionally stepping into the world of **fashion modeling** — just for fun  
