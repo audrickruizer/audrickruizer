@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🌏 Hello World! I'm Audric — an Indonesian Fullstack Developer 👨🏼‍💻
+# 🌏 Hello World! I'm Audric — an Indonesian Fullstack Developer 👨🏼‍💻 & Data Enthusiast 📊
 
 🎯 Currently building my own [webpage](https://audrickruizer.github.io/audrickruizer-portfolio/)  
 🚀 Check out my latest project: [Job Tracker Web App](https://job-tracker-two-eosin.vercel.app/)  
